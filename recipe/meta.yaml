@@ -1,5 +1,5 @@
 {% set name = "snowflake-ingest" %}
-{% set version = "1.0.4" %}
+{% set version = "1.0.5" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://github.com/snowflakedb/snowflake-ingest-python/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: e52de07938c26025a755748bd71dd7cd35acf9982615d91e796c2703067f6d20
+  sha256: 7a1381f9341042642302097d1ecb31dc6a855bb0e78d5378a320ae29b0c88483
 
   # Upstream tarball is not packaged properly and so our build fails
   # url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/snowflake_ingest-{{ version }}.tar.gz
