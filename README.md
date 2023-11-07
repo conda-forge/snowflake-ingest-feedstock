@@ -1,11 +1,11 @@
-About snowflake-ingest
-======================
+About snowflake-ingest-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/snowflake-ingest-feedstock/blob/main/LICENSE.txt)
 
 Home: https://www.snowflake.net
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/snowflake-ingest-feedstock/blob/main/LICENSE.txt)
 
 Summary: Official SnowflakeDB File Ingest SDK
 
